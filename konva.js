@@ -8546,6 +8546,7 @@
 })(Konva);
 
 (function() {
+<<<<<<< HEAD
   'use strict';
   // constants
   var HASH = '#',
@@ -9228,6 +9229,17 @@
    * @param {Object} config
    * @param {Number} [config.cornerRadius]
    * @param {String} [config.fill] fill color
+=======
+    'use strict';
+    /**
+     * Rect constructor
+     * @constructor
+     * @memberof Konva
+     * @augments Konva.Shape
+     * @param {Object} config
+     * @param {Number} [config.cornerRadius]
+     * @param {String} [config.fill] fill color
+>>>>>>> Also remove drag and drop
      * @param {Image} [config.fillPatternImage] fill pattern image
      * @param {Number} [config.fillPatternX]
      * @param {Number} [config.fillPatternY]
