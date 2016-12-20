@@ -57,7 +57,7 @@ var sourceFiles = [
     'src/Group.js',
     'src/Animation.js',
     'src/Tween.js',
-    'src/DragAndDrop.js',
+    // 'src/DragAndDrop.js',
 
     // shapes
     'src/shapes/Rect.js',
