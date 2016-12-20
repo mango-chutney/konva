@@ -53,10 +53,10 @@ var sourceFiles = [
     'src/Stage.js',
     'src/BaseLayer.js',
     'src/Layer.js',
-    'src/FastLayer.js',
+    // 'src/FastLayer.js',
     'src/Group.js',
     'src/Animation.js',
-    'src/Tween.js',
+    // 'src/Tween.js',
     // 'src/DragAndDrop.js',
 
     // shapes
